@@ -26,3 +26,5 @@ Entrega primeiro Bimestre (Houve uma leve mudança já que animei com o projeto 
 
 -Fazer com que o inimigo consiga dar dano
 
+(DISCLAIMER:Não consegui enviar todos os arquivos do projeto já que boa parte são arquivos proprios da unity, mas tem os arquivos necessarios para que funcione tanto os scripts quanto as animações dentro da unity, algumas coisas poderiam ser melhores, mas deixei o tempo me levar e acabei não conseguindo fazer tudo da forma que queria, mas é um projeto que dá pra melhorar)
+
